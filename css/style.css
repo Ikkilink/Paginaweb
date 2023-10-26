@@ -1,0 +1,32 @@
+.bg-color
+{
+    background-color:  rgb(58, 60, 71);
+}
+.containerrec
+{
+    max-width: 55%;
+    margin-right: 50%;
+    padding-left: 20%;
+}
+.text-size
+{
+    font-size: large;
+}
+.fs-large
+{
+    font-size: xxx-large;
+}
+.fs-medium
+{
+    font-size: x-large;
+}
+.margin
+{
+    margin: 50%;
+   
+}
+
+#color
+{
+    color: gray;
+}
